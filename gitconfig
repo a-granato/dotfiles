@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alessandrogranato1@gmail.com
+	name = Alessandro Granato
